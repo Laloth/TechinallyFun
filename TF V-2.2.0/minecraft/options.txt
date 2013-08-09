@@ -1,0 +1,113 @@
+music:0.0
+sound:0.1056338
+invertYMouse:false
+mouseSensitivity:0.5
+fov:0.0
+gamma:1.0
+viewDistance:0
+guiScale:2
+particles:0
+bobView:true
+anaglyph3d:false
+advancedOpengl:true
+fpsLimit:0
+difficulty:3
+fancyGraphics:true
+ao:2
+clouds:true
+skin:Default
+lastServer:localhost
+lang:en_US
+chatVisibility:0
+chatColors:true
+chatLinks:true
+chatLinksPrompt:true
+chatOpacity:1.0
+serverTextures:true
+snooperEnabled:true
+fullscreen:false
+enableVsync:false
+hideServerAddress:false
+advancedItemTooltips:true
+pauseOnLostFocus:true
+showCape:true
+touchscreen:false
+overrideWidth:0
+overrideHeight:0
+heldItemTooltips:true
+chatHeightFocused:1.0
+chatHeightUnfocused:0.44366196
+chatScale:1.0
+chatWidth:1.0
+key_key.attack:-100
+key_key.use:-99
+key_key.forward:17
+key_key.left:30
+key_key.back:31
+key_key.right:32
+key_key.jump:57
+key_key.sneak:42
+key_key.drop:16
+key_key.inventory:18
+key_key.chat:20
+key_key.playerlist:15
+key_key.pickItem:-98
+key_key.command:53
+key_key.tarmor:24
+key_ALT Key:26
+key_Boost Key:19
+key_Mode Switch Key:50
+key_Side Inventory Key:46
+key_Gravi Fly Key:33
+key_key.extra:46
+key_key.charge:47
+key_key.toggle:34
+key_key.release:22
+key_FZ Bag of Holding:26
+key_FZ Pocket Crafting Table:26
+key_FZ Exo1:26
+key_FZ Exo2:26
+key_FZ Exo3:26
+key_(TC) Horn:26
+key_(TC) Invent:26
+key_(TC) Up:26
+key_(TC) Down:26
+key_(TC) Idle:26
+key_(TC) Furnace:26
+key_Clipboard:26
+key_Ender Pack:35
+key_Force Belt:26
+key_Force Belt Slot 1:26
+key_Force Belt Slot 2:26
+key_Force Belt Slot 3:26
+key_Force Belt Slot 4:26
+key_Force Belt Slot 5:26
+key_Force Belt Slot 6:26
+key_Force Belt Slot 7:26
+key_Force Belt Slot 8:26
+key_Coral Reef GUI:26
+key_Reposition Mob Portrait:25
+key_Open MPS Keybind GUI:37
+key_Go Down (MPS Flight Control):26
+key_Cycle Tool Backward (MPS):26
+key_Cycle Tool Forward (MPS):26
+key_Zoom (MPS):26
+key_Cosmetic (MPS):38
+key_Change OneWayBlock face:26
+key_key.craftingGrid:26
+key_key.wailaconfig:26
+key_key.wailadisplay:26
+key_[GC] Galaxy Map:49
+key_[GC] Open Spaceship Inventory:18
+key_[GC] Toggle Sensor Goggles Mode:26
+key_[GC] Vehicle Forward Key:26
+key_[GC] Vehicle Backward Key:26
+key_[GC] Vehicle Left Key:30
+key_[GC] Vehicle Right Key:32
+key_[GC] Vehicle Up Key:17
+key_[GC] Vehicle Down Key:31
+key_keybind.loco.faster:26
+key_keybind.loco.slower:26
+key_keybind.loco.mode:26
+key_keybind.loco.whistle:26
+key_FZ vanilla sprint:26

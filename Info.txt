@@ -1,0 +1,22 @@
+Mod Pack Name:
+TechnicallyFun
+
+Mods:
+https://docs.google.com/spreadsheet/ccc?key=0ArqhySdWmYBOdGRkeVZNclNsMy1RMFVHa1Z5QmdZeFE#gid=0
+
+Private Pack Code:
+TF
+
+Description:
+TechnicallyFun is a complement of a lot of different mod from Advancedmachines to Xenos Rel and more! TF was first started a few months ago when FTB first came out with my first pack The Crafter. With that knowledge from that pack I was able to greatly TechinallyFun. I can promise you that with this pack you will never be bored and never have anything to do. With the combination of our 24/7 server and updated that i plan to push at least once a week you will never get bored with our pack!
+Minecraft Version:
+1.5.2
+
+Pack Version:
+2.1.1
+
+Pack Author:
+Laloth
+
+Mod list:
+AdvancedMachines; AdvancedSolarPanels; Applied Energistics; ArmorStatusHUD; Ars Magica; Ars Magica NEI; Artifice; BiblioCraft; Biomes 'O Plenty; bspkrsCore; Buildcraft; Charge Pads; Chat Bubbles; ChickenChunks; CodeChickenCore; CoFH core; Compact Mobs; ComputerCraft; Coral Reef; Damage Indicators; Dartcraft; DenLib; Diamond Buckets+; Easy Crafting; EnderStorage; Equivalent Exchange 3; Extra Utilities; ExtraBees; Factorization; Floatingruins; Forestry; Forge; ForgeIRC; Galacticraft; Gate Copy; Gravestone; Gravitation Suite; Gravity Gun; Gregs SGCraft; GregTech; IC2NuclearControl; iChun Util; Immibis Core; Immibis's Peripherals; IndustrialCraft 2; Infermal Mobs; InfiniTubes; InvTweaks; IronChests; Liquid XP; LogisticsPipes; M3GAS Extracells; Magic Utilities; Magic/Thaumic Bees; Microblocks; Minechem 3; MinefactoryReloaded; MiscPeripherals; Modular Powersuits; Modular Powersuits Addon; ModularForceFieldSystem; Mystcraft; Natura; NEIAddons; NEIPlugins; NetherOres; NotEnoughItems; Obsidian Pressure Plates; OmniTools; OpenCCSensors; Plugins for Forestry; Portal Gun; PowerCrystals Core; Project Tabels; Railcraft; Redlogic; Ropes+; Soul Shards; Stackie; Steve Carts 2; Taverns; TC3 Essentia Everything; Thaumcraft 3; Thaumic Tinkerer; The Twilight Forest; Thermal Expansion 2; Tinkers Construct; Translocator; TreeCapitator; TubeStuff; Useful Ingame GUI; VoxelMap; Wireless Redstone; Wireless Redstone Addons; Wireless Redstone Power; Wireless Redstone Remote; Xenos Reliquary; Ars Magica NEI; Chickensheds; ExtraTrees; LiteLoader; InfernalMobs; Modular Powersuits addon; Primitive Mobs; Random Things; 
